@@ -1,4 +1,4 @@
-# Life Gym
+# Client - Life Gym
 
 Is a simple P.O.C application for members of a local gym. http://www.lifegymusa.net/
 
@@ -13,5 +13,4 @@ React - created the component for the login button transition
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Inspiration
-* etc
+  
